@@ -28,7 +28,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author
+ * @author Jake Harmon
  */
 public class GamePanel extends JPanel {
 

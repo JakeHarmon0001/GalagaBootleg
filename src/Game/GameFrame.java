@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author araderma
+ * @author Jake Harmon
  */
 public class GameFrame extends JFrame {
 
@@ -17,7 +17,7 @@ public class GameFrame extends JFrame {
     
     public GameFrame() {
         // Add text to title bar 
-        super("Star Wars");
+        super("GalagaBootleg");
 
         // Make sure the program exits when the close button is clicked
         this.setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
